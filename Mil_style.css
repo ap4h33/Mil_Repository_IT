@@ -22,3 +22,11 @@ main, header, nav {
     border-radius: 8px; 
 }
 
+a {
+    color: #007bff; 
+    text-decoration: none; 
+}
+
+a:hover {
+    text-decoration: underline; 
+}
