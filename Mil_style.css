@@ -12,3 +12,13 @@ body {
     padding-top: 0%;
     background-color: #f4f4f4; 
 }
+
+main, header, nav {
+    max-width: 960px; 
+    margin: 20px auto; 
+    background-color: #fff; 
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    border-radius: 8px; 
+}
+
