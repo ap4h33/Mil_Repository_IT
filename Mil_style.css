@@ -40,6 +40,9 @@ a:hover {
     padding: 20px; 
     background-color: #26388e;
     border-bottom: 1px solid #ccc; 
+    color: #f2fbeb;
+    font-size: 250%;
+    text-align: center;
 }
 
 .grid-nav {
@@ -85,7 +88,7 @@ a:hover {
 }
 
 .logo-img {
-    max-width: 50%; /* Установите желаемую максимальную ширину для логотипа */
-    height: auto;      /* Это сохранит пропорции изображения при изменении ширины */
-    display: block;    /* Убирает возможные нежелательные отступы под изображением */
+    max-width: 50%; 
+    height: auto;      
+    display: block;    
 }
