@@ -38,7 +38,7 @@ a:hover {
 .grid-header {
     grid-area: header;
     padding: 20px; 
-    background-color: #e0e0e0;
+    background-color: #26388e;
     border-bottom: 1px solid #ccc; 
 }
 
@@ -82,4 +82,10 @@ a:hover {
 .grid-main p {
     text-align: justify; 
     margin-bottom: 1em;
+}
+
+.logo-img {
+    max-width: 50%; /* Установите желаемую максимальную ширину для логотипа */
+    height: auto;      /* Это сохранит пропорции изображения при изменении ширины */
+    display: block;    /* Убирает возможные нежелательные отступы под изображением */
 }
